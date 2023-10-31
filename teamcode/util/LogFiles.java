@@ -91,7 +91,6 @@ public final class LogFiles {
         public double trackingForwardOffset = StandardTrackingWheelLocalizer.FORWARD_OFFSET;
 
 
-
         public List<Long> nsTimes = new ArrayList<>();
 
         public List<Double> targetXs = new ArrayList<>();
